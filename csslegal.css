@@ -1,0 +1,56 @@
+.esquerda
+ {
+    padding-left: 100px;
+  }
+
+.margemtop{
+
+    padding-left: 20px;
+
+
+}
+
+.tamanhopai{
+width: 50%;
+height: 80%;
+
+
+
+}
+
+.paddingdireita{
+padding-right: 20%;
+
+
+
+}
+
+.mbembe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 8px solid rgb(55, 100, 29);
+    
+
+
+
+}
+
+.padding {
+padding-left: 10%;
+padding-right: 10%;
+
+
+
+
+}
+
+.fontelegal {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+
+}
+
+
